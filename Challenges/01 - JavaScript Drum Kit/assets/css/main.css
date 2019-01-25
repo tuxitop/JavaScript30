@@ -1,0 +1,57 @@
+html {
+    font-size: 10px;
+    height: 100vh;
+}
+
+body {
+    background: url(../images/bg-drums.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    height: 100vh;
+    margin: 0;
+}
+
+main {
+    height: 100vh;
+    background-color: rgba(256,256,256, 0.2);
+}
+
+.keys-row {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+}
+
+.key {
+    background: rgba(0, 0, 0, 0.3);
+    border: .4rem solid #333;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    flex-basis: 8.5rem;
+    font-family: 'Righteous', monospace;
+    font-size: 3.2rem;
+    font-weight: bold;
+    padding: 1rem 0;
+    text-align: center;
+    transition: all 0.2s;
+}
+
+.key.playing {
+    transform: scale(1.1);
+    border-width: .6rem;
+    border-color: rgb(233, 62, 10);
+    box-shadow: .5rem .5rem .5rem #aaa;
+}
+
+.key > .sound {
+    color: rgb(77, 212, 228);
+    font-weight: 300;
+    display: block;
+    font-size: 1.8rem;
+    font-family: 'Righteous', cursive;
+}
