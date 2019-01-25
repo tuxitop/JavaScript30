@@ -13,7 +13,7 @@ No frameworks, no compilers, no libraries, no boilerplates... just pure VanillaJ
 ## Table Of Contents
 
 1. [x] ~~[JavaScript Drum Kit](./Challenges/01%20-%20JavaScript%20Drum%20Kit)~~
-2. [ ] JS + CSS Clock
+2. [x] ~~[JS + CSS Clock](./Challenges/02%20-%20CSS%20+%20JS%20Clock/)~~
 3. [ ] CSS Variables
 4. [ ] Array Cardio, Day 1
 5. [ ] Flex Panel Gallery

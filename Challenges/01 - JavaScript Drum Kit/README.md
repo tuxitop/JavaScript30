@@ -12,4 +12,4 @@ play drums with your keyboard.
 - we used `.addEventListener()` method on window, and key elements to listen to events.
 - we got familiar with `keydown` and `transitionend` events.
 - we saw that we can use `target.classList.add()` to add a class to a target element. there are also `remove()` and `toggle()` methods.
-- we used `audio.play()` to play an audio, we also used `audio.currentTime(0)` on the audio element to rewind the audio to the beginning. 
+- we used `audio.play()` to play an audio, we also used `audio.currentTime(0)` on the audio element to rewind the audio to the beginning.
