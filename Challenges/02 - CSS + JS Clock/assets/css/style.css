@@ -1,0 +1,40 @@
+html {
+  height: 100vh;
+  font-size: 10px;
+}
+
+body {
+  align-items: center;
+  background: url(../images/background.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.clock {
+  box-shadow: 4px 4px 4px #000;
+  box-sizing: border-box;
+  border: 1rem solid #ddd;
+  border-radius: 50%;
+  height: 30rem;
+  padding: 2rem;
+  position: relative;
+  width: 30rem;
+}
+
+.hand {
+  background: #aaa;
+  box-shadow: 3px 3px 5px #000;
+  position: absolute;
+  width: .6rem;
+  height: 50%;
+  left: 13.7rem;
+  transform-origin: .3rem 11.7rem;
+  transition: all 0.2s cubic-bezier(.17,3.53,.5,1.58);
+}
+
+.second-hand {
+  background: rgb(139, 44, 44);
+}
