@@ -1,4 +1,4 @@
-![JavaScript Drum Kit](assets/images/app-image.jpg)
+[![JavaScript Drum Kit](assets/images/app-image.jpg)](https://tuxitop.github.io/JavaScript30/Challenges/01%20-%20JavaScript%20Drum%20Kit/)
 
 # JavaScript Drum Kit
 play drums with your keyboard.

@@ -85,7 +85,7 @@ a {
 .challenge-box {
   background: #f2f2f2;
   border-radius: 1rem 1rem;
-  width: 30rem;
+  width: 35rem;
 }
 
 .challenge-title {
@@ -101,7 +101,7 @@ a {
 }
 
 .challenge-footer {
-  margin-top: 3rem;
+  margin-top: 5rem;
 }
 
 .challenge-links {
