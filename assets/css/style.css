@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'againts';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/againts.otf) format("opentype");
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+html {
+  font-size: 10px;
+  font-family: 'Roboto', 'sans-serif';
+}
+
+body {
+  margin: 0;
+  background: #e5e5e5;
+  color: #4f4f4f;
+}
+
+header {
+  align-items: center;
+  background: #333;
+  display: flex;
+  height: 25rem;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+
+a {
+  color: #2F80ED;
+  text-decoration: none;
+}
+
+.hl {
+  color: #f2c94c;
+}
+
+.title {
+  color: #e0e0e0;
+  font-family: 'againts';
+  font-weight: 300;
+  font-size: 7rem;
+  margin: 0;
+}
+
+.subtitle {
+  color: #bdbdbd;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.description {
+  align-items: center;
+  display: flex;
+  font-size: 2rem;
+  height: 25rem;
+  justify-content: center;
+}
+
+.description p {
+  width: 50%;
+}
+
+.challenges {
+  background: #e0e0e0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 4rem;
+}
+
+.challenges img {
+  border-radius: 1rem 1rem 0 0;
+  width: 100%;
+}
+
+.challenge-box {
+  background: #f2f2f2;
+  border-radius: 1rem 1rem;
+  width: 30rem;
+}
+
+.challenge-title {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin: .5rem;
+}
+
+.challenge-subtitle {
+  font-size: 1.4rem;
+  margin: .5rem;
+  color: #828282;
+}
+
+.challenge-footer {
+  margin-top: 3rem;
+}
+
+.challenge-links {
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: bold;
+  justify-content: space-between;
+  list-style: none;
+  margin: .5rem;
+  padding: 0;
+  text-transform: uppercase;
+}
