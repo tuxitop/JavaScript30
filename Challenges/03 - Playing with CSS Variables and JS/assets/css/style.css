@@ -1,3 +1,9 @@
+:root {
+  --base-color: #f2c94c;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
@@ -64,8 +70,9 @@ input[type="range"]::-moz-range-track {
 }
 
 img {
+  background: var(--base-color);
   box-sizing: border-box;
+  filter: blur(var(--blur));
+  padding: var(--spacing);
   width: 100%;
-  border: 10px solid #333;
-  filter: blur(.1rem)
 }
