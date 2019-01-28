@@ -15,7 +15,7 @@ No frameworks, no compilers, no libraries, no boilerplates... just pure VanillaJ
 1. [x] ~~[JavaScript Drum Kit](./Challenges/01%20-%20JavaScript%20Drum%20Kit)~~
 2. [x] ~~[JS + CSS Clock](./Challenges/02%20-%20CSS%20+%20JS%20Clock/)~~
 3. [x] ~~[CSS Variables](./Challenges/03%20-%20Playing%20with%20CSS%20Variables%20and%20JS/)~~
-4. [ ] Array Cardio, Day 1
+4. [x] ~~[Array Cardio, Day 1](./Challenges/04%20-%20Array%20Cardio%20Day%201/)~~
 5. [ ] Flex Panel Gallery
 6. [ ] Type Ahead
 7. [ ] Array Cardio, Day 2
