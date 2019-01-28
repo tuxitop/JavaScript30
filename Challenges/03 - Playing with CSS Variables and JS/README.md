@@ -6,7 +6,7 @@ Changing CSS variables with JavaScript.
 ## Notes
 ### CSS
 - CSS variables (actually CSS custom properties) can be used to assign values for later use in other properties.
-- `filter` property applies varous graphical effects like blur or contrast to an element.
+- `filter` property applies various graphical effects like blur or contrast to an element.
 
 ### JavaScript
 - We used two new events. `change` which will be trigered when a value input changes and `mousemove` which trigers when you move the mouse on the element.

@@ -4,7 +4,7 @@
 
 No frameworks, no compilers, no libraries, no boilerplates... just pure VanillaJS
 
-- I have added some notes to each excersize, just follow the links below.
+- I have added some notes to each exercise, just follow the links below.
 - Original files from @wesbos and solutions can be found [here](https://github.com/wesbos/JavaScript30).
 - Inspired from the [JavaScript30](https://github.com/yhabib/JavaScript30/) repository created by [@yhabib](https://github.com/yhabib/).
 - All the images are from [Unsplash](https://http://unsplash.com/).
