@@ -9,14 +9,13 @@ No frameworks, no compilers, no libraries, no boilerplates... just pure VanillaJ
 - Inspired from the [JavaScript30](https://github.com/yhabib/JavaScript30/) repository created by [@yhabib](https://github.com/yhabib/).
 - All the images are from [Unsplash](https://http://unsplash.com/).
 
-
 ## Table Of Contents
 
 1. [x] ~~[JavaScript Drum Kit](./Challenges/01%20-%20JavaScript%20Drum%20Kit)~~
 2. [x] ~~[JS + CSS Clock](./Challenges/02%20-%20CSS%20+%20JS%20Clock/)~~
 3. [x] ~~[CSS Variables](./Challenges/03%20-%20Playing%20with%20CSS%20Variables%20and%20JS/)~~
 4. [x] ~~[Array Cardio, Day 1](./Challenges/04%20-%20Array%20Cardio%20Day%201/)~~
-5. [ ] Flex Panel Gallery
+5. [x] ~~[Flex Panel Gallery](./Challenges/05%20-%20Flex%20Panels%20Image%20Gallery/)~~
 6. [ ] Type Ahead
 7. [ ] Array Cardio, Day 2
 8. [ ] Fun with HTML5 Canvas
