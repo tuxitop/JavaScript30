@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(219, 170, 53);
+  font-size: 10px;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  max-width: 50rem;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.search {
+  box-sizing: border-box;
+  font-size: 2rem;
+  font-weight: bold;
+  width: 100%;
+  padding: 1rem;
+  border: 0.5rem solid rgb(240, 240, 240);
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.suggestions {
+  list-style: none;
+  margin: 0 1rem;
+  padding: 0;
+}
+
+.suggestions > li {
+  background-color: #e7e7e7;
+  border: 0.1rem solid #c8c8c8;
+  font-size: 1.2rem;
+  font-weight: thin;
+  padding: 1rem;
+  text-transform: capitalize;
+}
+
+.population {
+  float: right;
+}
+
+.hl {
+  background-color: rgb(219, 170, 53);
+}

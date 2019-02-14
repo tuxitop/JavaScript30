@@ -16,7 +16,7 @@ No frameworks, no compilers, no libraries, no boilerplates... just pure VanillaJ
 3. [x] ~~[CSS Variables](./Challenges/03%20-%20Playing%20with%20CSS%20Variables%20and%20JS/)~~
 4. [x] ~~[Array Cardio, Day 1](./Challenges/04%20-%20Array%20Cardio%20Day%201/)~~
 5. [x] ~~[Flex Panel Gallery](./Challenges/05%20-%20Flex%20Panels%20Image%20Gallery/)~~
-6. [ ] Type Ahead
+6. [x] ~~[Type Ahead](./Challenges/06%20-%20Ajax%20Type%20Ahead/)~~
 7. [ ] Array Cardio, Day 2
 8. [ ] Fun with HTML5 Canvas
 9. [ ] Dev Tools Domination
